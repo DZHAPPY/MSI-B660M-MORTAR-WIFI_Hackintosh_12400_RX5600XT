@@ -12,7 +12,8 @@
 | **MacOS版本** | **MacOS Venture 13.0**        |
 | **机箱**      | **傻瓜超人K88青春版**         |
 
-**根据大佬[lyq1996]([MSI-B660M-MORTAR-WIFI_Hackintosh_12700_6800XT/README_zh.md at main · lyq1996/MSI-B660M-MORTAR-WIFI_Hackintosh_12700_6800XT (github.com)](https://github.com/lyq1996/MSI-B660M-MORTAR-WIFI_Hackintosh_12700_6800XT/blob/main/README_zh.md))发布的EFI做了稍微修改：**
+**根据大佬[lyq1996](https://github.com/lyq1996/MSI-B660M-MORTAR-WIFI_Hackintosh_12700_6800XT)发布的EFI做了稍微修改：**
 
 - **重新定制了USB(只适用与K88青春版)，前面板usb3.0接口、type-C接口、后面主板四个usb2.0接口、USB3.0接口、type-C接口**
 - **注入WIFI和蓝牙驱动**
+- **由于i5-12400没有E-Core,删除CpuTopologyRebuild.kext**
