@@ -9,7 +9,7 @@
 | **显卡**      | **5600XT**            |
 | **网卡**      | **AX211**                     |
 | **OC版本**    | **0.8.9**                   |
-| **MacOS版本** | **MacOS Venture 13.0**        |
+| **MacOS版本** | **MacOS Venture 13.2.1**        |
 | **机箱**      | **傻瓜超人K88青春版**         |
 
 **根据大佬[lyq1996](https://github.com/lyq1996/MSI-B660M-MORTAR-WIFI_Hackintosh_12700_6800XT)发布的EFI做了稍微修改：**
